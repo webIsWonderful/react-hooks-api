@@ -7,7 +7,8 @@
     "json-server": "^0.9.4"
   },
   "scripts": {
-    "start": "json-server data.json"
+    "start": "json-server data.json",
+    "build": "json-server data.json"
   },
   "bin": {
     "todos-api": "./todos-api.js"
