@@ -1,8 +1,8 @@
 {
   "todos": 
     [
-      { "id": 1, "title": "Learn React", "complete": true },
-      { "id": 2, "title": "Finish test", "complete": true },
-      { "id": 3, "title": "Cete new project", "complete": false }
+      { "id": 1, "text": "learn React", "complete": false },
+      { "id": 2, "text": "finish test", "complete": false },
+      { "id": 3, "text": "Create new project", "complete": true }
     ]
 }
